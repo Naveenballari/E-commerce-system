@@ -8,20 +8,7 @@
 //Function to print the cases in switch:
 void menu()
 {
-    //printing company logo
-        printf("                                                              //////  //        /////////   ////////        \n ");
-        printf("                                                            ///       //            //      //      //                \n ");
-        printf("                                                ,_   ///        //            //      //      //                           \n");
-        printf("                                               ,, _   ////////    //            //      /////////                                             \n");
-        printf("                                                ,,,__    ///          //            //      //                               \n");
-        printf("                                                        ///           //            //      //                             \n");
-        printf("                                                       ///            //            //      //                             \n");
-        printf("                                                      ///             //            //      //                                  \n");
-        printf("                                                     ///              ////////   ////////   //                           \n");
-        printf("                           Online shopping app for Mobiles,fashion,home appliances ...and whatever u need           ");
-        printf("\a");
-                         printf("                     ");
-                    printf("                     ");
+    printf("\nWELCOME TO E-COMMERCE SYSTEM\n");
     printf("\n----------------------------------\n");
     printf("\t\tMENU\n");
     printf("----------------------------------\n");
